@@ -118,7 +118,9 @@ use {
 .header__logo {
 	margin-right: 40px
 }
-
+.header__logo img{
+	width: 130px;
+}
 #spinwheel canvas[data-layer="bg"] {
 	z-index: 99;
 	position: absolute;

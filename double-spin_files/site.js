@@ -16,8 +16,8 @@ document.addEventListener('DOMContentLoaded', function (event) {
                         ],
                         arrow: {file: 'pointer.png'},
                         spinBtn: {file: 'cta-btn.png'},
-                        lightOff: {file: 'spacer.gif'},
-                        lightOn: {file: 'spacer.gif'},
+                        lightOff: {file: 'pointer.png'},
+                        lightOn: {file: 'cta-btn.png'},
                         preload: [
 
                         ]
